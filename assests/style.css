@@ -100,13 +100,7 @@ body{
 .button:hover{
     color:  #e94560 ;
   }
-.main{
-    background-attachment: fixed;
-    background-image: url(/assests/image/background.jpg);
-        image-rendering:optimizeQuality;
-        background-repeat: no-repeat;
-        background-size: cover;
-}
+
 .first{
     background-color:var(--first-color);
     height: 100%;
