@@ -102,7 +102,7 @@ body{
   }
 .main{
     background-attachment: fixed;
-    background-image: url(/assests/background.jpg);
+    background-image: url(/assests/image/background.jpg);
         image-rendering:optimizeQuality;
         background-repeat: no-repeat;
         background-size: cover;
